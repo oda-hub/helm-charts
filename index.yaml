@@ -3,12 +3,12 @@ entries:
   webprotege:
   - apiVersion: v2
     appVersion: 4.0.2
-    created: "2022-08-01T14:08:50.600308186+02:00"
+    created: "2022-08-01T14:09:52.439372902+02:00"
     description: A Helm chart for Kubernetes
-    digest: 40a52fe8e4553502e5dfa899b937e4a740dadd55bdfe82652266f75ea2cf93cb
+    digest: 13793b66159ba8a1e9d14f0335e11fc45a331407414ef9b669dd74eba467fea9
     name: webprotege
     type: application
     urls:
     - https://odahub.io/helm-charts/webprotege-4.0.2.tgz
     version: 4.0.2
-generated: "2022-08-01T14:08:50.599606464+02:00"
+generated: "2022-08-01T14:09:52.438648118+02:00"
